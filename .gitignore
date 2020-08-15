@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+
+# Default docs output location
+/html/
+
+# Packaging files
+*.egg-info/
+*.egg
+MANIFEST
+
+# Common virtualenv locations
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
